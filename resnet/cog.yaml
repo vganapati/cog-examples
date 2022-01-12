@@ -4,3 +4,4 @@ build:
     - "pillow==8.3.1"
     - "tensorflow==2.5.0"
 predict: "predict.py:ResNetPredictor"
+image: "r8.im/vganapati/resnet"

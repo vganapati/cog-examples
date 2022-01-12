@@ -6,3 +6,4 @@ build:
     - "libpng-dev"
     - "libjpeg-dev"
 predict: "predict.py:Predictor"
+image: "r8.im/vganapati/blur"
