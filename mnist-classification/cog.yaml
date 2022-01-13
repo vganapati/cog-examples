@@ -1,0 +1,9 @@
+build:
+  python_version: "3.7"
+  python_packages:
+    - "tensorflow==2.6.0"
+    - "keras==2.6.*"
+    - "numpy==1.19.2"
+    - "imageio==2.9.0"
+predict: "predict.py:Predictor"
+image: "r8.im/vganapati/mnist-classification"
